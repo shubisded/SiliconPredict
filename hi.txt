@@ -1,5 +1,0 @@
-Current Errors
-1) current fauls
-- CHoose your table empty
-- wrong logic 
-2) remove confirm buy yes order as well as no order to just trade
